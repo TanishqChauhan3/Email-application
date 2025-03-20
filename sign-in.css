@@ -1,0 +1,103 @@
+@charset "UTF-8";	
+.body{
+	background-color:#EDEEF1;
+}
+
+
+.container{
+	border:5px solid;
+	border-color:black;
+	width:auto;
+	margin:auto;
+	height:auto;
+	border-radius:10px;
+	font-family:Arial;
+	background-color:#EDEEF1;
+	text-align:left;
+	min-width: 450px;
+}
+
+.col-xs-12{
+	display:block;
+	font-size:25px;
+	font-weight:bold;
+	font-family:Arial;
+	text-align:left;
+	padding-left:380px !important;
+}
+
+
+    .dashboard-header {
+        background: linear-gradient(to right, #007bff, #0056b3);
+        color: white;
+        padding: 15px;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+
+.row .col-xs-12.second{
+	padding-top:10px;
+	padding-left:380px !important;
+}
+
+input[type="text"]{
+	height:40px;
+	width:200px;
+	font-size:20px;
+}
+
+
+p{
+	color:blue;
+	text-align:left;
+	padding-left:380px !important;
+}
+
+#gmail,#pass,#cpass,#security1,#security2,#security3{
+	width:400px;
+}
+
+#gmail::placeholder{
+	text-align:right;
+}
+
+#Month{
+	height:40px;
+	width:200px;
+	font-size:20px;
+}
+
+#Day{
+	height:40px;
+	width:80px;
+	font-size:20px;
+	padding-left:10px;
+}
+
+#year{
+	height:40px;
+	width:100px;
+	font-size:20px;
+	padding-left:10px;
+}
+
+#gender{
+	height:40px;
+	width:400px;
+}
+
+form input[type="button"], form input[type="Submit"]{
+	background: #1a73e8;
+    color: white;
+    border-radius:5px;
+    font-weight: bold;
+    width:90px;
+    height:auto;
+    text-align:center;
+    font-size:20px;
+    margin-bottom:10px;
+}
+

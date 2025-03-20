@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.container{
+	border-radius:10px !important;
+	border:5px solid !important;
+	background-color:#EDEEF1;
+	border-color:black;
+	width:auto;
+	margin:auto;
+	height:auto;
+	text-align:center;
+}
+
+.dashboard-header {
+        background: linear-gradient(to right, #007bff, #0056b3);
+        color: white;
+        padding: 15px;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.form-control{
+	padding:10px;
+	font-size:20px !important; 
+	margin-bottom:20px;
+	margin-top:10px;
+}
+
+input[type="submit"]{
+	 background-color: #1a73e8;
+  font-size:20px;
+  padding:10px;
+  text-decoration:none;
+  border-radius:10px !important;
+  border-color:#EDEEF1;
+  color:white;
+  margin-bottom:10px;
+}

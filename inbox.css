@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+*{  
+    margin: 0px;  
+    padding: 0px;  
+}  
+.row{
+	height:auto;
+	width:auto;
+}
+
+body{  
+    background-color:#EDEEF1;
+    border-radius:10px;
+}  
+
+.dashboard-header {
+        background: linear-gradient(to right, #007bff, #0056b3);
+        color: white;
+        padding: 15px;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+a{
+	text-decoration:None !important;
+}
+
+.col-md-8{
+	padding:20px;
+	float:right;
+	border:2px Solid;
+	border-color:Black;
+	color:Grey;
+	height:auto;
+}
+
+
+th,td{
+	text-align:center  !important;
+	width:200px !important;
+}

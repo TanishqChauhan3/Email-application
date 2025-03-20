@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+th,td{
+	font-size:20px;
+	padding:10px;
+}
+
+th{
+	vertical-align:top !important;
+}
+
+
+
+.col-md-3{
+	text-align: center !important;
+}
+
+.col-md-8{
+	border:2px solid !important;
+	padding:10px;
+	margin-left:20px;
+	text-align:justify;	
+}

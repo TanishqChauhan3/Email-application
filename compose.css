@@ -1,0 +1,35 @@
+*{  
+    margin: 0px;  
+    padding: 0px;  
+}  
+
+body{  
+    background-color:#EDEEF1;
+    border-radius:10px;
+}  
+
+
+.dashboard-header {
+        background: linear-gradient(to right, #007bff, #0056b3);
+        color: white;
+        padding: 15px;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+    }
+.container{
+	margin:0px;
+	padding:0px;	
+	border:5px solid;
+	border-color:Black;
+}
+
+.col-md-8{
+	padding:20px;
+	 float:right;
+}
+
+.form-control {
+    width: 780px!important;
+}

@@ -1,0 +1,24 @@
+@charset "UTF-8";
+*{  
+    margin: 0px;  
+    padding: 0px;  
+}  
+.row{
+	height:auto;
+	width:auto;
+}
+
+body{  
+    background-color:#EDEEF1;
+    border-radius:10px;
+}  
+
+.container{
+	text-align:center;
+	justify-content: center;
+	align-items: center;
+}
+
+.col-md-5{
+	float:right !important;
+}
